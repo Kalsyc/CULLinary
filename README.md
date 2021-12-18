@@ -1,6 +1,6 @@
-# CULLinary Remastered for Release
+# CULLinary Remastered
 
-Developed by Team Angry Eggplant for NUS CS3247: Game Development using Unity 2020.2.3f1
+Originally developed by Team Angry Eggplant for NUS CS3247: Game Development using Unity 2020.2.3f1
 
 <img src="https://github.com/AngryEggplantStudios/CULLinary/blob/main/STEPS/TitleGIF.gif" width="400" height="225"> 
 
