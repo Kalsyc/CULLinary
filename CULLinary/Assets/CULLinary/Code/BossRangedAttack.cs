@@ -18,7 +18,7 @@ public class BossRangedAttack : EnemyAttack
     private const float LINE_HEIGHT_FROM_GROUND = 0.1f;
     private int rayCount = 13;
     private int offsetRay = 0;
- 
+
     private void Awake()
     {
         canDealDamage = false;
@@ -107,7 +107,7 @@ public class BossRangedAttack : EnemyAttack
             }
         }
 
-        
+
     }
 
     private IEnumerator prepareToFire()
@@ -156,7 +156,7 @@ public class BossRangedAttack : EnemyAttack
     {
         //Destroy(selectionCircleActual.gameObject);
         canDealDamage = false;
-        for (int i =  0; i < listOfRenderers.Count; i++)
+        for (int i = 0; i < listOfRenderers.Count; i++)
         {
             listOfRenderers[i].enabled = false;
         }
